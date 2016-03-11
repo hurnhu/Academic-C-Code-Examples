@@ -1,0 +1,27 @@
+100-Forgot password
+101-Hard drive crash
+102-Lost data
+103-Frozen machine
+104-File will not print
+105-Network cable tip broken
+106-New software won't install
+107-Computer running especially slow
+108-New software crashes
+109-Keyboard keys too dirty to work
+110-Email application missing
+111-Email inbox full
+112-Web browser won't open web address
+113-Will not turn on
+114-Burning wire smell
+115-Slow network
+116-Fried computer
+117-Hard drive not storing files
+118-Too much spam
+119-Fist damange to monitor
+120-New virus detected
+121-Boot up takes too long
+122-Printer driver out of 
+123-Dropped laptop
+124-USB port dead
+125-Monitor broken
+126-Need USB cable

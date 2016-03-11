@@ -1,0 +1,5 @@
+Delta College,Doe,Jane,Q,A.S.,5/21/15
+Saginaw Valley State University,Smith,Michael,A,B.A.,12/19/13
+Western Michigan University,Klingler,Joshua,T,B.S.,4/30/16
+Oakland University,Bear,Grizzly,A,B.A.,7/7/10
+Northwest Ohio State University,Buckeye,Brutus,O,A.A.S.,2/29/12

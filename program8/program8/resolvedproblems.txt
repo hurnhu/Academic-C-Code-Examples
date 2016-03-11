@@ -1,0 +1,14 @@
+117,3,11/25/2013,Betty,Fleming
+115,3,11/18/2013,Marshall,White
+120,1,12/16/2013,Denise,Hendrix
+119,2,10/25/2013,Carrie,McNamara
+126,1,8/14/2013,Carlos,Spencer
+104,1,8/15/2013,Tamara,Hamilton
+125,1,6/14/2013,Stacy,Jernigan
+116,3,12/18/2013,Dianne,Strickland
+126,2,4/5/2013,Cameron,Shannon
+119,1,5/9/2013,Doris,Kim
+123,3,4/18/2013,Penny,Tyler
+115,3,12/30/2013,Lindsay,McPherson
+101,2,12/11/2013,Lester,Bates
+123,2,11/11/2013,Angela,Quinn

@@ -1,0 +1,11 @@
+
+/*! \mainpage My Personal Index Page
+*
+* \section intro_sec Introduction
+*
+*This program will output an alert, according to the data found in the alert.txt.
+*each alert with becomprised of. whats the alert is about, what county and state
+*it affects, the time frame, and how many people this will impact.
+*Made By : Michael LaPan, for the class adv c++ cst 280, program5
+
+*/
